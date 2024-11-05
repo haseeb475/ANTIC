@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>776088824700-imhq6oko3k38unb8am4nfukskt728f0l.apps.googleusercontent.com</string>
+	<string></string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.776088824700-imhq6oko3k38unb8am4nfukskt728f0l</string>
+	<string></string>
 	<key>API_KEY</key>
-	<string>AIzaSyAl6YqXVIQlduSPkStdxn5z2B8EEwZrRaM</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
-	<string>776088824700</string>
+	<string></string>
 	<key>PLIST_VERSION</key>
-	<string>1</string>
+	<string></string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.antic.RunnerTests</string>
+	<string></string>
 	<key>PROJECT_ID</key>
-	<string>antic-4f981</string>
+	<string></string>
 	<key>STORAGE_BUCKET</key>
-	<string>antic-4f981.appspot.com</string>
+	<string></string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:776088824700:ios:5128a6d63dfeb26e8852f9</string>
+	<string></string>
 </dict>
 </plist>
