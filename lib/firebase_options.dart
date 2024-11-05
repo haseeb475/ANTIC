@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCNFf5L7WQ8U6bevzQRuPAhWAB4cYfAjjY',
-    appId: '1:776088824700:web:bee392a8a159baef8852f9',
-    messagingSenderId: '776088824700',
-    projectId: 'antic-4f981',
-    authDomain: 'antic-4f981.firebaseapp.com',
-    storageBucket: 'antic-4f981.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD3xN1xgUf14pb9_LwuY83luHtJR0zVTeE',
-    appId: '1:776088824700:android:3fce161181a67b018852f9',
-    messagingSenderId: '776088824700',
-    projectId: 'antic-4f981',
-    storageBucket: 'antic-4f981.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAl6YqXVIQlduSPkStdxn5z2B8EEwZrRaM',
-    appId: '1:776088824700:ios:ec2b5b913021380b8852f9',
-    messagingSenderId: '776088824700',
-    projectId: 'antic-4f981',
-    storageBucket: 'antic-4f981.appspot.com',
-    iosClientId: '776088824700-173oge8h3ljloev3f3p39iie6krrgvve.apps.googleusercontent.com',
-    iosBundleId: 'com.example.antic',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAl6YqXVIQlduSPkStdxn5z2B8EEwZrRaM',
-    appId: '1:776088824700:ios:5128a6d63dfeb26e8852f9',
-    messagingSenderId: '776088824700',
-    projectId: 'antic-4f981',
-    storageBucket: 'antic-4f981.appspot.com',
-    iosClientId: '776088824700-imhq6oko3k38unb8am4nfukskt728f0l.apps.googleusercontent.com',
-    iosBundleId: 'com.example.antic.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
