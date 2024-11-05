@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776088824700",
+    "project_id": "antic-4f981",
+    "storage_bucket": "antic-4f981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776088824700:android:3fce161181a67b018852f9",
+        "android_client_info": {
+          "package_name": "com.example.antic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776088824700-c7dml2am8ad8g7enkhviianuqdhme35f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xN1xgUf14pb9_LwuY83luHtJR0zVTeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776088824700-c7dml2am8ad8g7enkhviianuqdhme35f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
